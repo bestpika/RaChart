@@ -3,8 +3,8 @@
 // @author		Sighery
 // @description	Enhances Rachel's charts in SG by highlighting you the games you own already
 // @version		0.40.2
-// @downloadURL	https://github.com/Sighery/RaChart/raw/master/RaChart%20Enhancer/RaChartEnhancer.user.js
-// @updateURL	https://github.com/Sighery/RaChart/raw/master/RaChart%20Enhancer/RaChartEnhancer.meta.js
+// @downloadURL	https://github.com/bestpika/RaChart/raw/fix-missed-files/RaChart%20Enhancer/RaChartEnhancer.user.js
+// @updateURL	https://github.com/bestpika/RaChart/raw/fix-missed-files/RaChart%20Enhancer/RaChartEnhancer.meta.js
 // @supportURL	https://www.steamgifts.com/discussion/riOvr/
 // @namespace	Sighery
 // @match		https://www.steamgifts.com/*
@@ -15,9 +15,9 @@
 // @grant		GM_deleteValue
 // @connect		api.steampowered.com
 // @connect		store.steampowered.com
-// @require		https://www.kryogenix.org/code/browser/sorttable/sorttable.js
-// @require		https://gist.githubusercontent.com/Sighery/feddf87a45215ead08ae8c3321a2083d/raw/52294fe11c35bfb20dcfee06a9972e001cbdad31/python-string-format.js
-// @require		https://gist.githubusercontent.com/Sighery/d1ea3de4da5ff7e8b36c6ec0ea74a1c2/raw/080107877f9b2ddaebaacc629ce6ee7d6bedb1de/draggable-absolute-dialog.js
+// @require		https://github.com/bestpika/RaChart/raw/fix-missed-files/RaChart%20Enhancer/sorttable.js
+// @require		https://github.com/bestpika/RaChart/raw/fix-missed-files/RaChart%20Enhancer/python-string-format.js
+// @require		https://github.com/bestpika/RaChart/raw/fix-missed-files/RaChart%20Enhancer/draggable-absolute-dialog.js
 // ==/UserScript==
 
 
